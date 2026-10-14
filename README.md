@@ -1,9 +1,9 @@
-# Hi there, I’m Hernan 👋
+# Hi there 👋
 
 I'm a **Backend Software Engineer** passionate about building scalable systems, especially in the **fintech** and **crypto** space.
 
 - 🔭 Currently working with **Java** & **Spring Boot**
-- ⚡ Enjoy exploring **Go**, **Node** and **Solidity**
+- ⚡ Enjoy working with **Go**, **Node** and **Solidity**
 - 💡 Interested in contributing to **open source** projects
 
 ## 🚀 Tech Stack
